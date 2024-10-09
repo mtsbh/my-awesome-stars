@@ -43,6 +43,7 @@
 
 ## AutoHotkey 
 
+- [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
 - [tdalon/ahk](https://github.com/tdalon/ahk) - Repository for AutoHotkey scripts including PowerTools
 - [xypha/AHK-v2-scripts](https://github.com/xypha/AHK-v2-scripts) - AutoHotkey scripts with several small functions and shortcut keys, written in AHK v2.
 - [GorvGoyl/Autohotkey-Scripts-Windows](https://github.com/GorvGoyl/Autohotkey-Scripts-Windows) - Autohotkey scripts to make you more productive when using Windows.
@@ -301,6 +302,7 @@
 
 ## Python 
 
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [OrfiTeam/OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - 
 - [Dniel97/orpheusdl-beatport](https://github.com/Dniel97/orpheusdl-beatport) - An OrpheusDL Beatport module
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
