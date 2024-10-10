@@ -346,6 +346,7 @@
 
 ## css 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [soulhotel/FF-ULTIMA](https://github.com/soulhotel/FF-ULTIMA) - The Firefox theme with too many options.. FF Ultima.
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [AlirezaKJ/BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
@@ -527,6 +528,7 @@
 
 ## hacktoberfest 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [ivnvxd/arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [koel/player](https://github.com/koel/player) - Koel Player, the official mobile app for Koel.
@@ -564,6 +566,7 @@
 
 ## html 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [ivnvxd/arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
 - [AlirezaKJ/BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
 - [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit) - Export saved Reddit posts into a HTML file for import into Google Chrome.
@@ -599,6 +602,7 @@
 
 ## javascript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -794,6 +798,7 @@
 
 ## nodejs 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [AlirezaKJ/BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -994,6 +999,7 @@
 
 ## privacy 
 
+- [ljanyst/peroxide](https://github.com/ljanyst/peroxide) - A third-party ProtonMail bridge serving SMTP and IMAP
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1082,6 +1088,7 @@
 
 ## react 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [focus1691/sports-betting-calculators](https://github.com/focus1691/sports-betting-calculators) - Sports Trading Calculators for Arbing, Bonus Bet, Dutching, Hedging, Laying, Staking and Odds
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Chatbot for documentation, that allows you to chat with your data. Privately deployable, provides AI knowledge sharing and integrates knowledge into your AI workflow
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
@@ -1098,6 +1105,7 @@
 
 ## reactjs 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 
 ## reverse-engineering 
@@ -1251,6 +1259,7 @@
 
 ## typescript 
 
+- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
