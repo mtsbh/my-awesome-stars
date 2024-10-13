@@ -190,6 +190,7 @@
 
 ## JavaScript 
 
+- [m3u8-xtream/m3u8-xtream-playlist](https://github.com/m3u8-xtream/m3u8-xtream-playlist) - Collection of publicly available free IPTV links M3u8 playlist, Xtream playlist from all over the world.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
 - [seongbin/Vibe2](https://github.com/seongbin/Vibe2) - Vibe, another foobar2000 theme
