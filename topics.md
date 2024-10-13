@@ -841,6 +841,7 @@
 
 ## others 
 
+- [m3u8-xtream/m3u8-xtream-playlist](https://github.com/m3u8-xtream/m3u8-xtream-playlist) - Collection of publicly available free IPTV links M3u8 playlist, Xtream playlist from all over the world.
 - [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
 - [tdalon/ahk](https://github.com/tdalon/ahk) - Repository for AutoHotkey scripts including PowerTools
 - [xypha/AHK-v2-scripts](https://github.com/xypha/AHK-v2-scripts) - AutoHotkey scripts with several small functions and shortcut keys, written in AHK v2.
