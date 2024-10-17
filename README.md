@@ -303,6 +303,7 @@
 
 ## Python 
 
+- [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [OrfiTeam/OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - 
 - [Dniel97/orpheusdl-beatport](https://github.com/Dniel97/orpheusdl-beatport) - An OrpheusDL Beatport module
