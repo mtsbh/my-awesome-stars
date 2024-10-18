@@ -237,6 +237,7 @@
 - [pestrela/music](https://github.com/pestrela/music) - A collection of tools for DJs (CUEs conversion, Flac testing, downloads)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
+- [whoisdsmith/AI-MTHRFCKR](https://github.com/whoisdsmith/AI-MTHRFCKR) - An Awesome Collection of AI Resources, MTHRFCKR!
 
 ## Kotlin 
 
@@ -327,6 +328,7 @@
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A Gradio web UI for Large Language Models.
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites
+- [whoisdsmith/BOOKMRKS-MTHRFCKR-II](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II) - An even bigger, better, collection....MTHRFCKR!
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [Master-Bruno/Hack-Telegram](https://github.com/Master-Bruno/Hack-Telegram) - Telegram Account Hacking or Cloning Latest Tool
 - [Grey-Time/Telethon-Channel-Clone](https://github.com/Grey-Time/Telethon-Channel-Clone) - Clone any telegram channel or group
