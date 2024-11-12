@@ -997,7 +997,6 @@
 
 ## p2p 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## php 
@@ -1228,6 +1227,7 @@
 
 ## svelte 
 
+- [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [feugy/melodie](https://github.com/feugy/melodie) - Melodie is a portable, simple-as-pie music player
 - [mitchray/ample](https://github.com/mitchray/ample) - A simple web browser client for Ampache
 
