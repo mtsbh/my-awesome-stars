@@ -855,6 +855,7 @@
 
 ## others 
 
+- [kalekje/LNCHR-pub](https://github.com/kalekje/LNCHR-pub) - 
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
 - [freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy](https://github.com/freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy) - Java Android Magisk Burp Objection Root Emulator Easy (JAMBOREE)
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
