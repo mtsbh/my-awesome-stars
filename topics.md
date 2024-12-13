@@ -870,6 +870,7 @@
 
 ## others 
 
+- [coderDJing/FRKB_Rapid-Audio-Organization-Tool](https://github.com/coderDJing/FRKB_Rapid-Audio-Organization-Tool) - Rapid Audio Organization Tool For WIN/MAC
 - [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Premium TickTick Windows Client
 - [kalekje/LNCHR-pub](https://github.com/kalekje/LNCHR-pub) - 
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
