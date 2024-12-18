@@ -22,6 +22,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [NWScript](#nwscript)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -43,6 +44,7 @@
 
 ## AutoHotkey 
 
+- [nperovic/ColorButton.ahk](https://github.com/nperovic/ColorButton.ahk) - Customise a button's background, text and border color. 為內建 Gui.Button 類別擴充一個變更按鈕背景、文字及邊框顏色的方法。
 - [kalekje/LNCHR-pub](https://github.com/kalekje/LNCHR-pub) - 
 - [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
 - [tdalon/ahk](https://github.com/tdalon/ahk) - Repository for AutoHotkey scripts including PowerTools
@@ -253,6 +255,11 @@
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
+
+## NWScript 
+
+- [iMAboud/iMA-Menu](https://github.com/iMAboud/iMA-Menu) - iMA Menu - Do File Transfers, Remove Background, Video/Image edit, Draw over apps, Youtube & X downloader, Resize, Video to Gif, MP4 to MP3, Clean Temp... and more from your  CONTEXT MENU.
+- [RubicBG/Nilesoft-Shell-Snippets](https://github.com/RubicBG/Nilesoft-Shell-Snippets) - 
 
 ## Others 
 
