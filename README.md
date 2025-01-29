@@ -200,6 +200,7 @@
 
 ## JavaScript 
 
+- [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy) - The M3U Playlist Proxy is a lightweight and effective tool designed to forward essential headers to proxy M3U playlist streams.
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
