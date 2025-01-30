@@ -878,9 +878,7 @@
 ## others 
 
 - [euzu/m3u-filter](https://github.com/euzu/m3u-filter) - m3u-filter (iptv filter) is an  application which can filter/rename/map entries out of a playlist in M3U / XTREAM format and can save/serve it as m3u, xtream or kodi format. It can be used as reverse 
-- [dtankdempse/m3u-playlist-proxy](https://github.com/dtankdempse/m3u-playlist-proxy) - The M3U Playlist Proxy is a lightweight and effective tool designed to forward essential headers to proxy M3U playlist streams.
 - [sebdelsol/sfvip-all](https://github.com/sebdelsol/sfvip-all) - Sfvip All wraps Sfvip Player with a local proxy that inserts an All category so you can easily search your entire catalog. It updates Mpv and Sfvip Player so you can enjoy their latest features. It su
-- [dtankdempse/daddylive-m3u](https://github.com/dtankdempse/daddylive-m3u) - Add DaddyLive TV & Sports streams to your IPTV application using the M3U playlists provided in this repository. There are four different playlist formats available, each tailored for specific applicat
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [RubicBG/Nilesoft-Shell-Snippets](https://github.com/RubicBG/Nilesoft-Shell-Snippets) - 
