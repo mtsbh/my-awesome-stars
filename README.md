@@ -44,6 +44,7 @@
 
 ## AutoHotkey 
 
+- [indigofairyx/Extended_Capslock_Context_Menu](https://github.com/indigofairyx/Extended_Capslock_Context_Menu) - An AutoHotkey menu for working-playing with text
 - [nperovic/ColorButton.ahk](https://github.com/nperovic/ColorButton.ahk) - Customise a button's background, text and border color. 為內建 Gui.Button 類別擴充一個變更按鈕背景、文字及邊框顏色的方法。
 - [kalekje/LNCHR-pub](https://github.com/kalekje/LNCHR-pub) - 
 - [henrystern/hotstring_hints](https://github.com/henrystern/hotstring_hints) - An autocompletion menu that reminds you of your hotstrings
@@ -200,6 +201,7 @@
 
 ## JavaScript 
 
+- [Chaoses-Ib/IbDOpusScripts](https://github.com/Chaoses-Ib/IbDOpusScripts) - Some scripts for Directory Opus.
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
