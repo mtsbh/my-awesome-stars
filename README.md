@@ -183,6 +183,7 @@
 
 ## HTML 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [arunelias/session-alive](https://github.com/arunelias/session-alive) - Session Alive
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
@@ -205,7 +206,7 @@
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [m3u8-xtream/m3u8-xtream-playlist](https://github.com/m3u8-xtream/m3u8-xtream-playlist) - Collection of publicly available free IPTV links M3u8 playlist, Xtream playlist from all over the world.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
