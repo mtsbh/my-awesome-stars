@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -17,6 +18,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [bitcoin](#bitcoin)
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -26,6 +28,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -166,6 +169,10 @@
 - [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
+## algorithmic-trading 
+
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
+
 ## analytics 
 
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
@@ -234,6 +241,7 @@
 
 ## awesome-list 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
 - [jnv/lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
@@ -267,6 +275,10 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~
+
+## bitcoin 
+
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 
 ## bot 
 
@@ -345,6 +357,10 @@
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+## cryptocurrency 
+
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 
 ## csharp 
 
@@ -465,13 +481,14 @@
 
 ## finance 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
 ## firefox 
 
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [arunelias/session-alive](https://github.com/arunelias/session-alive) - Session Alive
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
 - [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
@@ -526,6 +543,7 @@
 
 ## golang 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
@@ -1084,6 +1102,7 @@
 
 ## python 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [ivnvxd/arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
@@ -1179,6 +1198,7 @@
 
 ## rust 
 
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
