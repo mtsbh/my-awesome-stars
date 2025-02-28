@@ -253,7 +253,7 @@
 
 - [ergoncugler/web-scraping-telegram](https://github.com/ergoncugler/web-scraping-telegram) - Web Scraping Telegram | [Text] [Content] [Message] [Reactions] [Replies] [Comments] [Channels] [Groups] [Chats]
 - [pestrela/music](https://github.com/pestrela/music) - A collection of tools for DJs (CUEs conversion, Flac testing, downloads)
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
 - [eddwebster/football_analytics](https://github.com/eddwebster/football_analytics) - 📊⚽  A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated list of publicly available resources published by the football analytics community
 
 ## Kotlin 
