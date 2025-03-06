@@ -251,6 +251,7 @@
 
 ## Jupyter Notebook 
 
+- [LastAncientOne/Deep_Learning_Machine_Learning_Stock](https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock) - Deep Learning and Machine Learning stocks represent promising opportunities for both long-term and short-term investors and traders.
 - [ergoncugler/web-scraping-telegram](https://github.com/ergoncugler/web-scraping-telegram) - Web Scraping Telegram | [Text] [Content] [Message] [Reactions] [Replies] [Comments] [Channels] [Groups] [Chats]
 - [pestrela/music](https://github.com/pestrela/music) - A collection of tools for DJs (CUEs conversion, Flac testing, downloads)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI coding assistant for JetBrains
