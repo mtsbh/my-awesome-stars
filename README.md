@@ -421,6 +421,7 @@
 
 ## Rust 
 
+- [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [euzu/m3u-filter](https://github.com/euzu/m3u-filter) - m3u-filter (iptv filter) is an  application which can filter/rename/map entries out of a playlist in M3U / XTREAM format and can save/serve it as m3u, xtream or kodi format. It can be used as reverse 
 - [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
