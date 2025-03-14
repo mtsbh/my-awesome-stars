@@ -139,8 +139,6 @@
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [terminal](#terminal)
-- [termux](#termux)
-- [termux-hacking](#termux-hacking)
 - [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
@@ -187,7 +185,6 @@
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
-- [Master-Bruno/Hack-Telegram](https://github.com/Master-Bruno/Hack-Telegram) - Telegram Account Hacking or Cloning Latest Tool
 - [koel/player](https://github.com/koel/player) - Koel Player, the official mobile app for Koel.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
@@ -344,7 +341,6 @@
 
 ## chrome 
 
-- [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
@@ -501,7 +497,6 @@
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [arunelias/session-alive](https://github.com/arunelias/session-alive) - Session Alive
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
-- [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [KiKaraage/ArcWTF](https://github.com/KiKaraage/ArcWTF) - A userChrome.css theme to bring Arc Browser look on Windows to Firefox. Work with Windows, Linux and macOS ✨
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [EliverLara/firefox-sweet-theme](https://github.com/EliverLara/firefox-sweet-theme) - :candy: A dark and modern theme for firefox with vibrant colors
@@ -579,7 +574,6 @@
 
 ## hacking 
 
-- [Master-Bruno/Hack-Telegram](https://github.com/Master-Bruno/Hack-Telegram) - Telegram Account Hacking or Cloning Latest Tool
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
 ## hacktoberfest 
@@ -982,6 +976,7 @@
 - [idoenk/maknyos-autoin](https://github.com/idoenk/maknyos-autoin) - 
 - [trepDev/mixcloud-with-tracklist](https://github.com/trepDev/mixcloud-with-tracklist) - [Web-Extension] Display tracklists on Mixcloud Website: https://www.mixcloud.com
 - [stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus) - Open with++ context menu shell extension
+- [magicoflolis/Magic-PH](https://github.com/magicoflolis/Magic-PH) - A video downloader for various adult websites
 - [StaticPH/Userscripts](https://github.com/StaticPH/Userscripts) - Various userscripts I've written for my own usage. Now available to the public!
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
@@ -1361,14 +1356,6 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-
-## termux 
-
-- [Master-Bruno/Hack-Telegram](https://github.com/Master-Bruno/Hack-Telegram) - Telegram Account Hacking or Cloning Latest Tool
-
-## termux-hacking 
-
-- [Master-Bruno/Hack-Telegram](https://github.com/Master-Bruno/Hack-Telegram) - Telegram Account Hacking or Cloning Latest Tool
 
 ## trading 
 
