@@ -362,7 +362,6 @@
 - [Jules-WinnfieldX/CyberDropDownloader](https://github.com/Jules-WinnfieldX/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [whoisdsmith/BOOKMRKS-MTHRFCKR-II](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR-II) - An even bigger, better, collection....MTHRFCKR!
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [Master-Bruno/Hack-Telegram](https://github.com/Master-Bruno/Hack-Telegram) - Telegram Account Hacking or Cloning Latest Tool
 - [Grey-Time/Telethon-Channel-Clone](https://github.com/Grey-Time/Telethon-Channel-Clone) - Clone any telegram channel or group
 - [vasusen-code/SaveRestrictedContentBot](https://github.com/vasusen-code/SaveRestrictedContentBot) - Stable telegram bot to save Restricted content with custom thumbnail support.
 - [radinshayanfar/TGCopyBot](https://github.com/radinshayanfar/TGCopyBot) - A python script to copy telegram messages to another chat (without forwarding)
