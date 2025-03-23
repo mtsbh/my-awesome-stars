@@ -926,6 +926,7 @@
 
 ## others 
 
+- [jbsparrow/CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [indigofairyx/Extended_Capslock_Context_Menu](https://github.com/indigofairyx/Extended_Capslock_Context_Menu) - An AutoHotkey menu for working-playing with text
 - [euzu/m3u-filter](https://github.com/euzu/m3u-filter) - m3u-filter (iptv filter) is an  application which can filter/rename/map entries out of a playlist in M3U / XTREAM format and can save/serve it as m3u, xtream or kodi format. It can be used as reverse 
 - [sebdelsol/sfvip-all](https://github.com/sebdelsol/sfvip-all) - Sfvip All wraps Sfvip Player with a local proxy that inserts an All category so you can easily search your entire catalog. It updates Mpv and Sfvip Player so you can enjoy their latest features. It su
