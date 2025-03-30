@@ -805,6 +805,7 @@
 
 ## music 
 
+- [rauversion/rauversion](https://github.com/rauversion/rauversion) - Self hosted music industries built on Rails
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [Super-Badmen-Viper/NSMusicS](https://github.com/Super-Badmen-Viper/NSMusicS) - NSMusicS NineSong Cloud-Native Music Server/ Full platform Client，support navidrome, jellyfin, emby
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
