@@ -183,6 +183,7 @@
 
 ## HTML 
 
+- [rauversion/rauversion](https://github.com/rauversion/rauversion) - Self hosted music industries built on Rails
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [arunelias/session-alive](https://github.com/arunelias/session-alive) - Session Alive
