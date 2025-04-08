@@ -271,6 +271,7 @@
 
 ## Others 
 
+- [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [MasterBrian99/Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Download or get free coupons from famous course websites.
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Premium TickTick Windows Client
@@ -463,6 +464,7 @@
 
 ## TypeScript 
 
+- [hiaaryan/wora](https://github.com/hiaaryan/wora) - 🎧 A beautiful player for audiophiles.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
