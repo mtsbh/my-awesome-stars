@@ -85,7 +85,7 @@
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
 - [TheJoeFin/Text-Grab](https://github.com/TheJoeFin/Text-Grab) - Use OCR in Windows quickly and easily with Text Grab. With optional background process and notifications.
-- [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run and Command Palette
+- [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [DJDoubleD/QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Downloads streams directly from Qobuz. Experimental refactoring of QobuzDownloaderX by AiiR
 - [SanGraphic/QuickBoost](https://github.com/SanGraphic/QuickBoost) - Automated Windows 10 / 11 Tweaking Utility
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -207,7 +207,7 @@
 - [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script for adding a second sidebar with web panels like in Vivaldi/Floorp/Zen but better.
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - A calmer internet, without any gimmicks.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [m3u8-xtream/m3u8-xtream-playlist](https://github.com/m3u8-xtream/m3u8-xtream-playlist) - Collection of publicly available free IPTV links M3u8 playlist, Xtream playlist from all over the world.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/meneer-code/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
