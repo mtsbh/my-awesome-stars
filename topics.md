@@ -36,6 +36,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -411,6 +412,10 @@
 ## deployment 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
+
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
