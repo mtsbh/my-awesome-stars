@@ -382,7 +382,7 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [bipinkrish/File-Converter-Bot](https://github.com/bipinkrish/File-Converter-Bot) - File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks
-- [Inplex-sys/Hawkish-Eyes-NoDualHook](https://github.com/Inplex-sys/Hawkish-Eyes-NoDualHook) - Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injec
+- [SystemVll/Hawkish-Eyes-NoDualHook](https://github.com/SystemVll/Hawkish-Eyes-NoDualHook) - Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injec
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [personal-coding/Live-Sports-Arbitrage-Bet-Finder](https://github.com/personal-coding/Live-Sports-Arbitrage-Bet-Finder) - Automated bot that identifies live sports arbitrage opportunities across FanDuel, DraftKings, and William Hill (Caesars).
 - [mahendrakalkura/www.bet365.com](https://github.com/mahendrakalkura/www.bet365.com) - 
