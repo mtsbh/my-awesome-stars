@@ -949,7 +949,7 @@
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [jbsparrow/CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [indigofairyx/Extended_Capslock_Context_Menu](https://github.com/indigofairyx/Extended_Capslock_Context_Menu) - An AutoHotkey menu for working-playing with text
-- [euzu/m3u-filter](https://github.com/euzu/m3u-filter) - m3u-filter (iptv filter) is an  application which can filter/rename/map entries out of a playlist in M3U / XTREAM format and can save/serve it as m3u, xtream or kodi format. It can be used as reverse 
+- [euzu/m3u-filter](https://github.com/euzu/m3u-filter) - m3u-filter is a flexible and efficient tool built in Rust 🦀, designed for processing, filtering, and serving media playlists with minimal resource usage.
 - [sebdelsol/sfvip-all](https://github.com/sebdelsol/sfvip-all) - Sfvip All wraps Sfvip Player with a local proxy that inserts an All category so you can easily search your entire catalog. It updates Mpv and Sfvip Player so you can enjoy their latest features. It su
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
