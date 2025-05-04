@@ -947,6 +947,7 @@
 
 ## others 
 
+- [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [jbsparrow/CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [indigofairyx/Extended_Capslock_Context_Menu](https://github.com/indigofairyx/Extended_Capslock_Context_Menu) - An AutoHotkey menu for working-playing with text
