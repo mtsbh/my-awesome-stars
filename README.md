@@ -202,6 +202,7 @@
 
 ## JavaScript 
 
+- [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [rauversion/rauversion](https://github.com/rauversion/rauversion) - Open source Music Multiverses
 - [Chaoses-Ib/IbDOpusScripts](https://github.com/Chaoses-Ib/IbDOpusScripts) - Some scripts for Directory Opus.
