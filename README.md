@@ -523,7 +523,7 @@
 
 ## Visual Basic .NET 
 
-- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Transparently compress active games and programs using Windows 10/11 APIs
+- [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus) - Open with++ context menu shell extension
 - [EliSadaka/UpnpReloaded](https://github.com/EliSadaka/UpnpReloaded) - 
 
