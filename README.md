@@ -333,6 +333,7 @@
 
 ## Python 
 
+- [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.
 - [jbsparrow/CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites
 - [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.
 - [aahnik/tg-login](https://github.com/aahnik/tg-login) - A command-line tool to login into Telegram with user or bot accounts and generate session string.
