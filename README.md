@@ -202,6 +202,7 @@
 
 ## JavaScript 
 
+- [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
