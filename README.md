@@ -233,7 +233,6 @@
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [aminomancer/uc.css.js](https://github.com/aminomancer/uc.css.js) - A dark indigo CSS theme for Firefox and a large collection of privileged scripts to add new buttons, menus, behaviors and other opinionated features. The theme is similar to other userChrome styleshee
 - [turtl/server](https://github.com/turtl/server) - The new Turtl server
-- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [zodern/meteor-up](https://github.com/zodern/meteor-up) - Production Quality Meteor Deployment to Anywhere
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [Novik/ruTorrent](https://github.com/Novik/ruTorrent) - Yet another web front-end for rTorrent
@@ -471,7 +470,7 @@
 ## TypeScript 
 
 - [gokulkrishh/bmrk.cc](https://github.com/gokulkrishh/bmrk.cc) - Bookmark It. is a bookmark manager to organize, discover & personalize your bookmarks
-- [hiaaryan/wora](https://github.com/hiaaryan/wora) - 🎧 A beautiful player for audiophiles.
+- [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -505,6 +504,7 @@
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [Alt-er/obsidian-sync-share](https://github.com/Alt-er/obsidian-sync-share) - Sync and share (publish) your notes in your own private service.
+- [TriliumNext/trilium](https://github.com/TriliumNext/trilium) - Build your personal knowledge base with Trilium Notes
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [Sinacs/Joplin.Plugin.ReMoods.Theme](https://github.com/Sinacs/Joplin.Plugin.ReMoods.Theme) - [NO LONGER MAINTAINED]
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
