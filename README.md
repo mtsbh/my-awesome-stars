@@ -272,6 +272,7 @@
 
 ## Others 
 
+- [Sem1ra1/Cards-View-snippet](https://github.com/Sem1ra1/Cards-View-snippet) - This is a snippet for alternative display style of `Dataview` results. Most appropriate case of using is creating personal libraries.
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [MasterBrian99/Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Download or get free coupons from famous course websites.
