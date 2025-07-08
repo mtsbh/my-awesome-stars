@@ -387,7 +387,6 @@
 - [interlark/ustvgo-iptv](https://github.com/interlark/ustvgo-iptv) - USTVGO Free IPTV
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [bipinkrish/File-Converter-Bot](https://github.com/bipinkrish/File-Converter-Bot) - File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks
 - [SystemVll/Hawkish-Eyes-NoDualHook](https://github.com/SystemVll/Hawkish-Eyes-NoDualHook) - Ethical Hacking Tool | Powerfull Tokens Grabber / Stealer Discord, Steal: Browsers Passwords & Cookies, Window Info, Files Sniper, Wallet, Minecraft Account, Bypass Firewall & Antivirus, Discord Injec
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
@@ -500,6 +499,7 @@
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [WorldBrain/Memex](https://github.com/WorldBrain/Memex) - Browser extension to curate, annotate, and discuss the most valuable content and ideas on the web. As individuals, teams and communities.
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
+- [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
