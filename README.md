@@ -80,7 +80,7 @@
 - [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore) - A unifying frontend for Windows app stores and package managers
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
 - [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
-- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - App that will record system audio and send it off to the Shazam to be identified. For when your phone's microphone just doesn't cut it.
+- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - An open-source Shazam client for identifying music on your PC. For when your phone's microphone just doesn't cut it.
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix) - Multi-Platform Package Manager for Stable Diffusion
