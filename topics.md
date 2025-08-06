@@ -390,7 +390,7 @@
 
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
-- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - App that will record system audio and send it off to the Shazam to be identified. For when your phone's microphone just doesn't cut it.
+- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - An open-source Shazam client for identifying music on your PC. For when your phone's microphone just doesn't cut it.
 - [huynhsontung/Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform
 - [jackBonadies/SeekerAndroid](https://github.com/jackBonadies/SeekerAndroid) - Android client for the Soulseek peer-to-peer network
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -861,7 +861,7 @@
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
 - [Rise-Software/Rise-Media-Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
-- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - App that will record system audio and send it off to the Shazam to be identified. For when your phone's microphone just doesn't cut it.
+- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - An open-source Shazam client for identifying music on your PC. For when your phone's microphone just doesn't cut it.
 - [lejacobroy/Tidalrr](https://github.com/lejacobroy/Tidalrr) - Self-hosted Tidal library sync
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [vitiko98/qobuz-dl](https://github.com/vitiko98/qobuz-dl) - A complete Lossless and Hi-Res music downloader for Qobuz
@@ -1538,7 +1538,7 @@
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
-- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - App that will record system audio and send it off to the Shazam to be identified. For when your phone's microphone just doesn't cut it.
+- [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - An open-source Shazam client for identifying music on your PC. For when your phone's microphone just doesn't cut it.
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [twonth/winning-at-windows](https://github.com/twonth/winning-at-windows) - tools for customizing the appearance and functionality of Windows
