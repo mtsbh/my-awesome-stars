@@ -457,7 +457,7 @@
 ## Shell 
 
 - [SimpleHomelab/AtoMiC-ToolKit](https://github.com/SimpleHomelab/AtoMiC-ToolKit) - AtoMiC Toolkit simplifies HTPC / Home Server setup and management on Ubuntu and Debian variants including Raspbian. It currently supports: Couchpotato, Deluged, Emby, FFmpeg, Headphones, Htpcmanager, 
-- [atanasyanew/media-server](https://github.com/atanasyanew/media-server) - Docker project for a automated media server - Plex, Ombi, Prowlarr/Jacket, qBittorrent, Sonarr, Radarr and Lidarr
+- [atanasyanew/media-server](https://github.com/atanasyanew/media-server) - Docker project for a automated media server - Plex, Ombi/Overserr, Prowlarr/Jacket, qBittorrent, Sonarr, Radarr and Lidarr
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
 - [jgwest/turtl-docker](https://github.com/jgwest/turtl-docker) - Turtl-docker allows you to run a standalone Turtl server on your own VM/hardware,  with built-in support for data persistence, TLS/SSL endpoints through Let's Encrypt, automated backup and Nginx secur
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -493,7 +493,7 @@
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
