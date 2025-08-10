@@ -71,7 +71,7 @@
 - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.co
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
-- [shibatch/SSRC](https://github.com/shibatch/SSRC) - A high quality audio sampling rate converter
+- [shibatch/SSRC](https://github.com/shibatch/SSRC) - An audiophile-grade sample rate converter
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 
 ## C# # 
