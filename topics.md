@@ -1117,7 +1117,7 @@
 - [actualbudget/actual-server](https://github.com/actualbudget/actual-server) - Actual's server
 - [Lunatixz/KODI_Addons](https://github.com/Lunatixz/KODI_Addons) - 
 - [airsonic-advanced/airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) - 
-- [shibatch/SSRC](https://github.com/shibatch/SSRC) - A high quality audio sampling rate converter
+- [shibatch/SSRC](https://github.com/shibatch/SSRC) - An audiophile-grade sample rate converter
 - [camm9909/WavPatcher](https://github.com/camm9909/WavPatcher) - GUI header patching module for WAV files
 - [BlitterStudio/MB_SubSonic](https://github.com/BlitterStudio/MB_SubSonic) - MusicBee SubSonic plugin
 - [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
