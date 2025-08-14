@@ -44,6 +44,7 @@
 
 ## AutoHotkey 
 
+- [indigofairyx/Quick-Color-Menu](https://github.com/indigofairyx/Quick-Color-Menu) - A Simple Context Menu for Quickly Storing and Pasting HEX and RGB Color Codes
 - [indigofairyx/Extended_Capslock_Context_Menu](https://github.com/indigofairyx/Extended_Capslock_Context_Menu) - An AutoHotkey menu for working-playing with text
 - [nperovic/ColorButton.ahk](https://github.com/nperovic/ColorButton.ahk) - Customise a button's background, text and border color. 為內建 Gui.Button 類別擴充一個變更按鈕背景、文字及邊框顏色的方法。
 - [kalekje/LNCHR-pub](https://github.com/kalekje/LNCHR-pub) - 
