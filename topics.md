@@ -56,6 +56,7 @@
 - [font](#font)
 - [game](#game)
 - [git](#git)
+- [github](#github)
 - [go](#go)
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
@@ -581,6 +582,10 @@
 - [Alt-er/obsidian-sync-share](https://github.com/Alt-er/obsidian-sync-share) - Sync and share (publish) your notes in your own private service.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 
+## github 
+
+- [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
+
 ## go 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -607,6 +612,7 @@
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - AI SYSTEMS TRANSPARENCY FOR ALL! - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search,
+- [adamlui/userscripts](https://github.com/adamlui/userscripts) - 🐵 Greasemonkey userscripts
 
 ## graphql 
 
@@ -986,6 +992,7 @@
 
 ## others 
 
+- [indigofairyx/Quick-Color-Menu](https://github.com/indigofairyx/Quick-Color-Menu) - A Simple Context Menu for Quickly Storing and Pasting HEX and RGB Color Codes
 - [Sem1ra1/Cards-View-snippet](https://github.com/Sem1ra1/Cards-View-snippet) - This is a snippet for alternative display style of `Dataview` results. Most appropriate case of using is creating personal libraries.
 - [gokulkrishh/bmrk.cc](https://github.com/gokulkrishh/bmrk.cc) - Bookmark It. is a bookmark manager to organize, discover & personalize your bookmarks
 - [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
