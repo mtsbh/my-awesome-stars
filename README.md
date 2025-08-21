@@ -516,7 +516,7 @@
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [vladimiry/ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial ProtonMail Desktop App
-- [fmhy/edit](https://github.com/fmhy/edit) - https://fmhy.net/
+- [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all!
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
