@@ -1039,7 +1039,6 @@
 - [ergoncugler/web-scraping-telegram](https://github.com/ergoncugler/web-scraping-telegram) - Web Scraping Telegram | [Text] [Content] [Message] [Reactions] [Replies] [Comments] [Channels] [Groups] [Chats]
 - [zao/foo_wave_seekbar](https://github.com/zao/foo_wave_seekbar) - A foobar2000 UI seekbar element displaying the playing waveform.
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More!
-- [suhail-c/telegram-odesli-bot](https://github.com/suhail-c/telegram-odesli-bot) - 
 - [9dogs/tg-odesli-bot](https://github.com/9dogs/tg-odesli-bot) - Telegram Bot to share music with Odesli (former Songlink) service.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [seongbin/Vibe2](https://github.com/seongbin/Vibe2) - Vibe, another foobar2000 theme
