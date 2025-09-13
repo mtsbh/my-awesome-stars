@@ -1135,6 +1135,7 @@
 - [shibatch/SSRC](https://github.com/shibatch/SSRC) - An audiophile-grade sample rate converter
 - [camm9909/WavPatcher](https://github.com/camm9909/WavPatcher) - GUI header patching module for WAV files
 - [BlitterStudio/MB_SubSonic](https://github.com/BlitterStudio/MB_SubSonic) - MusicBee SubSonic plugin
+- [builtbybel/ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - The real PowerToys for Windows 11
 - [lostindark/DriverStoreExplorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer
 - [Pittvandewitt/Wavelet](https://github.com/Pittvandewitt/Wavelet) - A quick rundown on each feature and its settings
 - [thebookisclosed/ViVe](https://github.com/thebookisclosed/ViVe) - C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer
