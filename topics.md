@@ -79,7 +79,6 @@
 - [js](#js)
 - [json](#json)
 - [kotlin](#kotlin)
-- [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
 - [latex](#latex)
@@ -742,10 +741,6 @@
 
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
-
-## kubernetes 
-
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
 ## language 
 
