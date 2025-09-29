@@ -475,6 +475,7 @@
 
 ## TypeScript 
 
+- [nini22P/omp](https://github.com/nini22P/omp) - OneDrive Media Player on the web | 网页端 OneDrive 媒体播放器
 - [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama.cpp, along with support for any provider, tool calling, agent building, Stable Diffusion, and n8n-st
 - [gokulkrishh/bmrk.cc](https://github.com/gokulkrishh/bmrk.cc) - Bookmark It. is a bookmark manager to organize, discover & personalize your bookmarks
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
