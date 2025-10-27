@@ -174,7 +174,7 @@
 - [ljanyst/peroxide](https://github.com/ljanyst/peroxide) - A third-party ProtonMail bridge serving SMTP and IMAP
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted alternative to cloud note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture and organize your ideas.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking services. No tracking, no ads, no subscription fees — just a clean, fast way to capture your ideas.
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
