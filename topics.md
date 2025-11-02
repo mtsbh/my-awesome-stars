@@ -401,7 +401,7 @@
 
 ## cryptocurrency 
 
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) - Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 
 ## csharp 
@@ -808,7 +808,7 @@
 
 ## llm 
 
-- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) - Multi-exchange AI trading platform (Binance/Hyperliquid/Aster) with multi-AI competition(deepseek/qwen/claude), self-evolution, and real-time dashboard
+- [tinkle-community/nofx](https://github.com/tinkle-community/nofx) - NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange Al trading platform(Binance/Hyperliquid/Aster) with multi-Ai competition(deepseek/qwen/claude)self-evolution, and real-
 - [claraverse-space/ClaraVerse](https://github.com/claraverse-space/ClaraVerse) - ClaraVerse is a privacy-first, fully local AI workspace featuring a Local LLM chat powered by LLama.cpp, along with support for any provider, tool calling, agent building, Stable Diffusion, and n8n-st
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
