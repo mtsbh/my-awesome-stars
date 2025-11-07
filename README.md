@@ -79,6 +79,7 @@
 
 ## C# # 
 
+- [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Premium TickTick Windows Client
 - [theimpactfulcompany/Rise-Media-Player](https://github.com/theimpactfulcompany/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [yoshiask/FluentStore](https://github.com/yoshiask/FluentStore) - A unifying frontend for Windows app stores and package managers
 - [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) - A bash inspired readline implementation for PowerShell
@@ -289,7 +290,6 @@
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [MasterBrian99/Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Download or get free coupons from famous course websites.
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
-- [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Premium TickTick Windows Client
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
