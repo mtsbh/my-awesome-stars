@@ -1065,6 +1065,7 @@
 
 ## others 
 
+- [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
 - [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) - Claude Code Comprehensive Guide
 - [gustavofariaa/FlashscoreScraping](https://github.com/gustavofariaa/FlashscoreScraping) - 🤖 Scrape match results and statistics from Flashscore
 - [EarnForex/News-Trader](https://github.com/EarnForex/News-Trader) - News Trader is a customizable expert advisor to trade high-volatility news releases based on the trader's inputs.
