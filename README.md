@@ -36,7 +36,6 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
-- [VBScript](#vbscript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -65,7 +64,6 @@
 - [AveYo/MediaCreationTool.bat](https://github.com/AveYo/MediaCreationTool.bat) - Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [pal1000/Realtek-UAD-generic](https://github.com/pal1000/Realtek-UAD-generic) - An unofficial package of generic Realtek Universal Audio Driver made from parts of various OEM specific Reatek Universal Audio drivers intended to work on legacy systems lacking OEM UAD support.
-- [abbodi1406/KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO) - Smart Activation Script
 
 ## C 
 
@@ -112,7 +110,6 @@
 ## C++ 
 
 - [EA31337/EA31337](https://github.com/EA31337/EA31337) - 🤖📈 EA31337 Lite, Advanced and Rider - Forex multi-strategy trading robot for MT4/MT5 platforms
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [tdlib/telegram-bot-api](https://github.com/tdlib/telegram-bot-api) - Telegram Bot API server
 - [univrsal/tuna](https://github.com/univrsal/tuna) - Song information plugin for obs-studio
 - [Zren/material-decoration](https://github.com/Zren/material-decoration) - Material-ish window decoration theme for KWin, with LIM, based on zzag's original design.
@@ -216,6 +213,7 @@
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [arunelias/session-alive](https://github.com/arunelias/session-alive) - Session Alive
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [m3u8-xtream/m3u8-xtream-playlist](https://github.com/m3u8-xtream/m3u8-xtream-playlist) - Collection of publicly available free IPTV links M3u8 playlist, Xtream playlist from all over the world.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
@@ -551,10 +549,6 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
-
-## VBScript 
-
-- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
 
 ## Visual Basic .NET 
 
