@@ -36,6 +36,7 @@
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
+- [VBScript](#vbscript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
@@ -548,6 +549,10 @@
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player
+
+## VBScript 
+
+- [abbodi1406/vcredist](https://github.com/abbodi1406/vcredist) - AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes
 
 ## Visual Basic .NET 
 
