@@ -1183,7 +1183,6 @@
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [matafokka/ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix) - Fixes Microsoft Excel appearance when custom Windows theme is used
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
-- [smoralis/footuner](https://github.com/smoralis/footuner) - Foobar2000 theme designed for playing and managing internet streams.
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
