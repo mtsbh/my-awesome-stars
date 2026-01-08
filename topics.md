@@ -127,6 +127,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -1298,6 +1299,11 @@
 ## project-management 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+
+## prompt-engineering 
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 
 ## pwa 
 
