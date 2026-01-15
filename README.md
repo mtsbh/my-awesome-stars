@@ -175,6 +175,7 @@
 - [ljanyst/peroxide](https://github.com/ljanyst/peroxide) - A third-party ProtonMail bridge serving SMTP and IMAP
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and Nextcloud integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upl
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [dweymouth/supersonic](https://github.com/dweymouth/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
@@ -404,7 +405,6 @@
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [bipinkrish/File-Converter-Bot](https://github.com/bipinkrish/File-Converter-Bot) - File Converter Telegram Bot that can Convert Images, Videos, Audios, Fonts, Documents and Ebooks
-- [SystemVll/Montscan](https://github.com/SystemVll/Montscan) - 🖨️ Automated scanner document processor with OCR, AI-powered naming, and Nextcloud integration. Receives scans via FTP, extracts text using Tesseract, generates intelligent filenames with Ollama AI, a
 - [dylanljones/pyrekordbox](https://github.com/dylanljones/pyrekordbox) - Inofficial Python package for interacting with the database and other files (XML, ANLZ, MySettings) of Pioneers Rekordbox DJ software
 - [personal-coding/Live-Sports-Arbitrage-Bet-Finder](https://github.com/personal-coding/Live-Sports-Arbitrage-Bet-Finder) - Automated bot that identifies live sports arbitrage opportunities across FanDuel, DraftKings, and William Hill (Caesars).
 - [mahendrakalkura/www.bet365.com](https://github.com/mahendrakalkura/www.bet365.com) - 
