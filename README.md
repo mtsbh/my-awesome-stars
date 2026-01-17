@@ -16,6 +16,7 @@
 - [Dockerfile](#dockerfile)
 - [Elm](#elm)
 - [FLUX](#flux)
+- [Fluent](#fluent)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -28,7 +29,6 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -167,6 +167,10 @@
 
 - [madhex/soundcloud-fb2k-waveform-seekbar](https://github.com/madhex/soundcloud-fb2k-waveform-seekbar) - SoundCloud Theme for Foobar2000 Waveform Seekbar Plugin
 
+## Fluent 
+
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
+
 ## Go 
 
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Open-source Trading OS with pluggable AI brain | From market data → AI reasoning → Trade execution | Self-hosted & Multi-exchange
@@ -209,6 +213,7 @@
 ## JavaScript 
 
 - [SamidyFR/monochrome](https://github.com/SamidyFR/monochrome) - Minimalist, Unlimited Music Streaming.
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [gustavofariaa/FlashscoreScraping](https://github.com/gustavofariaa/FlashscoreScraping) - 🤖 Scrape match results and statistics from Flashscore
 - [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
@@ -218,7 +223,6 @@
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [arunelias/session-alive](https://github.com/arunelias/session-alive) - Session Alive
 - [RvNovae/tracklister](https://github.com/RvNovae/tracklister) - A utility for converting DJ software playlist files into tracklists
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [m3u8-xtream/m3u8-xtream-playlist](https://github.com/m3u8-xtream/m3u8-xtream-playlist) - Collection of publicly available free IPTV links M3u8 playlist, Xtream playlist from all over the world.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
@@ -347,7 +351,7 @@
 
 ## Python 
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [yash1th/unsplash-album-downloader](https://github.com/yash1th/unsplash-album-downloader) - Download entire album of photos from Unsplash
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [gookie-dev/StepDaddyLiveHD](https://github.com/gookie-dev/StepDaddyLiveHD) - A self-hosted IPTV proxy for DLHD.
@@ -437,10 +441,6 @@
 - [aahnik/tgcf](https://github.com/aahnik/tgcf) - The ultimate tool to automate custom telegram message forwarding. Live-syncer, Auto-poster, backup-bot, cloner, chat-forwarder, duplicator, ... Call it whatever you like! tgcf can fulfill your custom 
 - [flesniak/python-prodj-link](https://github.com/flesniak/python-prodj-link) - A python interface to Pioneer ProDJ Link
 - [jaakkopasanen/AutoEq](https://github.com/jaakkopasanen/AutoEq) - Automatic headphone equalization from frequency responses
-
-## Roff 
-
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 
 ## Ruby 
 
