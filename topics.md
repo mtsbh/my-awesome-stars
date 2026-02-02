@@ -783,7 +783,7 @@
 
 ## javascript 
 
-- [regorxxx/Infinity-Tools-SMP](https://github.com/regorxxx/Infinity-Tools-SMP) - A collection of Spider Monkey tools for foobar2000: removing duplicates, wrapped, statistics report, advanced playlist manipulation, dynamic queries,  "spotify-like" playlist creation, ... Infinite po
+- [regorxxx/Infinity-Tools-SMP](https://github.com/regorxxx/Infinity-Tools-SMP) - A collection of Spider Monkey tools for foobar2000: playback controls, removing duplicates, wrapped, statistics report, advanced playlist manipulation, dynamic queries,  "spotify-like" playlist creati
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
