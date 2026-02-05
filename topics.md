@@ -1103,7 +1103,7 @@
 
 - [gregchak/plex-playlist-import](https://github.com/gregchak/plex-playlist-import) - Windows application for importing playlists into PLEX
 - [f13end/tradingview-custom-indicators](https://github.com/f13end/tradingview-custom-indicators) - An awesome collection of the various technical indicators implemented in Pine Script Language.
-- [SamidyFR/monochrome](https://github.com/SamidyFR/monochrome) - Minimalist, Unlimited Music Streaming.
+- [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Minimalist, Unlimited Music Streaming.
 - [ramdany7/RightClick-Folder-Icon-Tools](https://github.com/ramdany7/RightClick-Folder-Icon-Tools) - Adds “Folder Icon Tools” to the Windows Explorer context menu. Automatically edits images, generates, converts, and applies images as folder icons.
 - [cyunrei/Video-Live-Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) - A video live wallpaper application with minimal memory usage and a compact package size, designed only for the Android Original System.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
