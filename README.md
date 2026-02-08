@@ -68,6 +68,7 @@
 
 ## C 
 
+- [TrinityEmulator/TrinityEmulator](https://github.com/TrinityEmulator/TrinityEmulator) - Trinity is an Android emulator designed to simultaneously meet the goals of good compatibility, security and efficiency with the novel notion of graphics projection space.
 - [zao/foo_wave_seekbar](https://github.com/zao/foo_wave_seekbar) - A foobar2000 UI seekbar element displaying the playing waveform.
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [RamonUnch/AltSnap](https://github.com/RamonUnch/AltSnap) - Maintained continuation of Stefan Sundin's AltDrag
