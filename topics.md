@@ -238,7 +238,7 @@
 - [TrinityEmulator/TrinityEmulator](https://github.com/TrinityEmulator/TrinityEmulator) - Trinity is an Android emulator designed to simultaneously meet the goals of good compatibility, security and efficiency with the novel notion of graphics projection space.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 - [dothq/browser](https://github.com/dothq/browser) - The browser that fights for your privacy.
 - [koel/player](https://github.com/koel/player) - Koel Player, the official mobile app for Koel.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
@@ -691,7 +691,7 @@
 
 ## graphql 
 
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 
 ## gui 
 
@@ -830,7 +830,7 @@
 
 ## learning 
 
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 
 ## library 
 
@@ -1307,7 +1307,7 @@
 
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
@@ -1690,7 +1690,7 @@
 ## web 
 
 - [nini22P/omp](https://github.com/nini22P/omp) - OneDrive Media Player on the web | 网页端 OneDrive 媒体播放器
-- [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your desktop.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 ## windows 
