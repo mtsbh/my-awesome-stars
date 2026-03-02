@@ -373,7 +373,7 @@
 - [Anjok07/ultimatevocalremovergui](https://github.com/Anjok07/ultimatevocalremovergui) - GUI for a Vocal Remover that uses Deep Neural Networks.
 - [iMAboud/iMA-Menu](https://github.com/iMAboud/iMA-Menu) - iMA Menu - Do File Transfers, Remove Background, Video/Image edit, Draw over apps, Youtube & X downloader, Resize, Video to Gif, MP4 to MP3, Clean Temp... and more from your  CONTEXT MENU.
 - [jhj0517/Whisper-WebUI](https://github.com/jhj0517/Whisper-WebUI) - A Web UI for easy subtitle using whisper model.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [OrfiTeam/OrpheusDL](https://github.com/OrfiTeam/OrpheusDL) - 
 - [Dniel97/orpheusdl-beatport](https://github.com/Dniel97/orpheusdl-beatport) - An OrpheusDL Beatport module
 - [m1guelpf/auto-subtitle](https://github.com/m1guelpf/auto-subtitle) - Automatically generate and overlay subtitles for any video.
