@@ -1116,6 +1116,7 @@
 
 ## others 
 
+- [binimum/hifi-api](https://github.com/binimum/hifi-api) - simple api for tidal
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no account required.
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Apple Music, Deezer, Spotify, Tidal and QoBuz playlist with Plex (because Plex music playlist are a croc of tihs)
 - [gregchak/plex-playlist-import](https://github.com/gregchak/plex-playlist-import) - Windows application for importing playlists into PLEX
@@ -1341,6 +1342,7 @@
 
 ## python 
 
+- [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (Deezer, Discogs, iTunes, Musixmatch, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
 - [Lysagxra/GoFileDownloader](https://github.com/Lysagxra/GoFileDownloader) - Efficient downloader for GoFile
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [yash1th/unsplash-album-downloader](https://github.com/yash1th/unsplash-album-downloader) - Download entire album of photos from Unsplash
@@ -1383,6 +1385,7 @@
 
 ## python3 
 
+- [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (Deezer, Discogs, iTunes, Musixmatch, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
 - [Lysagxra/GoFileDownloader](https://github.com/Lysagxra/GoFileDownloader) - Efficient downloader for GoFile
 - [yash1th/unsplash-album-downloader](https://github.com/yash1th/unsplash-album-downloader) - Download entire album of photos from Unsplash
 - [aahnik/tg-login](https://github.com/aahnik/tg-login) - A command-line tool to login into Telegram with user or bot accounts and generate session string.
@@ -1490,6 +1493,7 @@
 
 ## self-hosted 
 
+- [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal Music integration for Subsonic/Jellyfin/Plexamp.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Minimalist, Unlimited Music Streaming.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
