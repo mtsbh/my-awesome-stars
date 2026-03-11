@@ -1115,8 +1115,10 @@
 
 ## others 
 
+- [AuXBoX/Playlist-Lab](https://github.com/AuXBoX/Playlist-Lab) - Plex Playlist Manager
+- [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [binimum/hifi-api](https://github.com/binimum/hifi-api) - simple api for tidal
-- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz, Amazon Music & Deezer — no account required.
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Apple Music, Deezer, Spotify, Tidal and QoBuz playlist with Plex (because Plex music playlist are a croc of tihs)
 - [gregchak/plex-playlist-import](https://github.com/gregchak/plex-playlist-import) - Windows application for importing playlists into PLEX
 - [f13end/tradingview-custom-indicators](https://github.com/f13end/tradingview-custom-indicators) - An awesome collection of the various technical indicators implemented in Pine Script Language.
