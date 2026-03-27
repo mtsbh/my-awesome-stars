@@ -1126,6 +1126,7 @@
 
 ## others 
 
+- [kaarme01/kaarme-bet-scraper](https://github.com/kaarme01/kaarme-bet-scraper) - A prototype for a sportsbook scraping framework
 - [AuXBoX/Playlist-Lab](https://github.com/AuXBoX/Playlist-Lab) - Plex Playlist Manager
 - [SilentVoid13/SyncDisBoi](https://github.com/SilentVoid13/SyncDisBoi) - Music streaming platforms (Youtube Music, Spotify, Tidal) synchronization tool
 - [binimum/hifi-api](https://github.com/binimum/hifi-api) - simple api for tidal
