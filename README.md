@@ -497,7 +497,7 @@
 
 ## Svelte 
 
-- [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal Music integration for Subsonic/Jellyfin/Plexamp.
+- [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal music integration for Subsonic/Jellyfin/Plexamp.
 - [mitchray/ample](https://github.com/mitchray/ample) - A simple web browser client for Ampache
 
 ## TypeScript 
