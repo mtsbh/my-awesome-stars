@@ -1507,7 +1507,7 @@
 
 ## self-hosted 
 
-- [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal Music integration for Subsonic/Jellyfin/Plexamp.
+- [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal music integration for Subsonic/Jellyfin/Plexamp.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Minimalist, Unlimited Music Streaming.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
