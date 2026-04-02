@@ -298,6 +298,7 @@
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
+- [joshdev8/AutoPlexx](https://github.com/joshdev8/AutoPlexx) - AutoPlexx offers a seamless, fully-automated Plex Media Server setup using Docker, designed to simplify your media streaming experience. With a single command, deploy an integrated stack of essential 
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -383,7 +384,6 @@
 - [9dogs/tg-odesli-bot](https://github.com/9dogs/tg-odesli-bot) - Telegram Bot to share music with Odesli (former Songlink) service.
 - [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
-- [joshdev8/AutoPlexx](https://github.com/joshdev8/AutoPlexx) - AutoPlexx offers a seamless, fully-automated Plex Media Server setup using Docker, designed to simplify your media streaming experience. With a single command, deploy an integrated stack of essential 
 - [lejacobroy/Tidalrr](https://github.com/lejacobroy/Tidalrr) - Self-hosted Tidal library sync
 - [mozilla-services/syncserver](https://github.com/mozilla-services/syncserver) - Run-Your-Own Firefox Sync Server
 - [An0nimia/DeezSpot_bot](https://github.com/An0nimia/DeezSpot_bot) - This project has been created for integrate deezloader library in a Telegram bot.
