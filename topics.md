@@ -29,6 +29,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [command-line](#command-line)
@@ -432,6 +433,11 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [zombieFox/nightTab](https://github.com/zombieFox/nightTab) - A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab.
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+
+## claude-code 
+
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 
 ## cli 
 
