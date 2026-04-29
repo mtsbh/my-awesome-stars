@@ -25,6 +25,7 @@
 - [bot](#bot)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
@@ -383,6 +384,11 @@
 - [gerbera/gerbera](https://github.com/gerbera/gerbera) - UPnP Media Server for 2026: Stream your digital media through your home network and consume it on all kinds of UPnP supporting devices 📱💻📺
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [dechamps/FlexASIO](https://github.com/dechamps/FlexASIO) - A flexible universal ASIO driver that uses the PortAudio sound I/O library. Supports WASAPI (shared and exclusive), KS, DirectSound and MME.
+
+## c-sharp 
+
+- [gregchak/plex-playlist-import](https://github.com/gregchak/plex-playlist-import) - Windows application for importing playlists into PLEX
+- [DJDoubleD/QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Downloads streams directly from Qobuz. Experimental refactoring of QobuzDownloaderX by AiiR
 
 ## chatbot 
 
@@ -1175,7 +1181,6 @@
 - [binimum/hifi-api](https://github.com/binimum/hifi-api) - simple api for tidal
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Apple Music, Deezer, Spotify, Tidal and QoBuz playlist with Plex (because Plex music playlist are a croc of tihs)
-- [gregchak/plex-playlist-import](https://github.com/gregchak/plex-playlist-import) - Windows application for importing playlists into PLEX
 - [f13end/tradingview-custom-indicators](https://github.com/f13end/tradingview-custom-indicators) - An awesome collection of the various technical indicators implemented in Pine Script Language.
 - [ramdany7/RightClick-Folder-Icon-Tools](https://github.com/ramdany7/RightClick-Folder-Icon-Tools) - Adds “Folder Icon Tools” to the Windows Explorer context menu. Automatically edits images, generates, converts, and applies images as folder icons.
 - [cyunrei/Video-Live-Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) - A video live wallpaper application with minimal memory usage and a compact package size, designed only for the Android Original System.
@@ -1249,7 +1254,6 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [MoonWalker440/Music-Megathread](https://github.com/MoonWalker440/Music-Megathread) - A Comprehensive List For All Music 🎶 Lovers. It's a treasure trove of music resources to enhance your listening experience and discover new music.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
-- [DJDoubleD/QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Downloads streams directly from Qobuz. Experimental refactoring of QobuzDownloaderX by AiiR
 - [ahkscript/awesome-AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey) - A curated list of awesome AutoHotkey libraries, library distributions, scripts, tools and resources.
 - [nptr/msstyleEditor](https://github.com/nptr/msstyleEditor) - an editor for windows visual styles
 - [Holzhaus/rekordcrate](https://github.com/Holzhaus/rekordcrate) - Library for parsing Pioneer Rekordbox device exports
