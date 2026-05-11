@@ -1230,7 +1230,6 @@
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [RubicBG/Nilesoft-Shell-Snippets](https://github.com/RubicBG/Nilesoft-Shell-Snippets) - 
 - [coderDJing/FRKB_Rapid-Audio-Organization-Tool](https://github.com/coderDJing/FRKB_Rapid-Audio-Organization-Tool) - Rapid Audio Organization Tool For WIN/MAC
-- [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Premium TickTick Windows Client
 - [kalekje/LNCHR-pub](https://github.com/kalekje/LNCHR-pub) - 
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
 - [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
@@ -1553,6 +1552,7 @@
 
 ## reverse-engineering 
 
+- [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Reverse engineered TickTick Windows
 - [offlinemark/dawtool](https://github.com/offlinemark/dawtool) - Reverse-engineered parsers for Ableton Live & FL Studio project files.
 
 ## ruby 
