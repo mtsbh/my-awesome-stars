@@ -554,7 +554,7 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - 
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
-- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically 3 times a week.
+- [iconify/icon-sets](https://github.com/iconify/icon-sets) - 150+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [Alt-er/obsidian-sync-share](https://github.com/Alt-er/obsidian-sync-share) - Sync and share (publish) your notes in your own private service.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
@@ -593,7 +593,7 @@
 - [Moosync/Moosync-electron](https://github.com/Moosync/Moosync-electron) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers
 - [budgetzero/budgetzero](https://github.com/budgetzero/budgetzero) - Open-source, self-hosted, zero-based budgeting.
-- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 
 ## License
