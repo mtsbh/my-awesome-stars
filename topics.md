@@ -213,7 +213,7 @@
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -381,7 +381,7 @@
 
 ## bitcoin 
 
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 
@@ -1737,7 +1737,7 @@
 
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [EA31337/EA31337](https://github.com/EA31337/EA31337) - 🤖📈 EA31337 Lite, Advanced and Rider - Forex multi-strategy trading robot for MT4/MT5 platforms
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [LastAncientOne/Deep_Learning_Machine_Learning_Stock](https://github.com/LastAncientOne/Deep_Learning_Machine_Learning_Stock) - Deep Learning and Machine Learning stocks represent promising opportunities for both long-term and short-term investors and traders.
