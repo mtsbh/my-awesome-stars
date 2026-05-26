@@ -865,7 +865,6 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [staniel359/muffon](https://github.com/staniel359/muffon) - Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -1228,7 +1227,6 @@
 - [EarnForex/News-Trader](https://github.com/EarnForex/News-Trader) - News Trader is a customizable expert advisor to trade high-volatility news releases based on the trader's inputs.
 - [warren-bank/crx-Daddylive](https://github.com/warren-bank/crx-Daddylive) - website userscript: redirect embedded videos from "thedaddy.to" to an external player
 - [indigofairyx/Quick-Color-Menu](https://github.com/indigofairyx/Quick-Color-Menu) - A Simple Context Menu for Quickly Storing and Pasting HEX and RGB Color Codes
-- [Sem1ra1/Cards-View-snippet](https://github.com/Sem1ra1/Cards-View-snippet) - This is a snippet for alternative display style of `Dataview` results. Most appropriate case of using is creating personal libraries.
 - [gokulkrishh/bmrk.cc](https://github.com/gokulkrishh/bmrk.cc) - Bookmark It. is a bookmark manager to organize, discover & personalize your bookmarks
 - [mrbrainz/Mixcloud-Tracklist-Enabler](https://github.com/mrbrainz/Mixcloud-Tracklist-Enabler) - Bookmarklet to re-enable Mixcloud tracklists
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
