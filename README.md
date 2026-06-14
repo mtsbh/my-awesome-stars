@@ -217,6 +217,7 @@
 
 ## JavaScript 
 
+- [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
 - [regorxxx/Infinity-Tools-SMP](https://github.com/regorxxx/Infinity-Tools-SMP) - A collection of Spider Monkey tools for foobar2000: playback controls, removing duplicates, wrapped, statistics report, advanced playlist manipulation, dynamic queries,  "spotify-like" playlist creati
