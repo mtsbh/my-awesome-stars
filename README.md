@@ -419,7 +419,7 @@
 - [harleylang/hydroxide-docker](https://github.com/harleylang/hydroxide-docker) - Docker configuration examples for the hydroxide package
 - [vinayak-7-0-3/Tidal-DL-Telegram](https://github.com/vinayak-7-0-3/Tidal-DL-Telegram) - Telegram bot to download songs from Tidal
 - [noes14155/Telegrambot-with-GPT](https://github.com/noes14155/Telegrambot-with-GPT) - telegram bot with gpt
-- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT, Python-based, using OpenAI's API.
+- [father-bot/chatgpt_telegram_bot](https://github.com/father-bot/chatgpt_telegram_bot) - 💬 Telegram bot with ChatGPT & Claude Python-based, using OpenAI's API.
 - [csu/export-saved-reddit](https://github.com/csu/export-saved-reddit) - Export saved Reddit posts into a HTML file for import into Google Chrome.
 - [HexyeDEV/Telegram-Chatbot-Gpt4Free](https://github.com/HexyeDEV/Telegram-Chatbot-Gpt4Free) - This is a Python-based Telegram bot using the telethon library. The bot responds to messages using the evagpt4 reverse engeneered api from GPT4FREE repo
 - [interlark/ustvgo-iptv](https://github.com/interlark/ustvgo-iptv) - USTVGO Free IPTV
