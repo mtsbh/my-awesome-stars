@@ -237,7 +237,6 @@
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
 - [seongbin/Vibe2](https://github.com/seongbin/Vibe2) - Vibe, another foobar2000 theme
-- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [va4ok/userscript-builder](https://github.com/va4ok/userscript-builder) - Tool for building userscript for teampermonkey. Uses ES6 classes.
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [idoenk/maknyos-autoin](https://github.com/idoenk/maknyos-autoin) - 
@@ -510,6 +509,7 @@
 ## Svelte 
 
 - [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal music integration for Subsonic/Jellyfin/Plexamp.
+- [ndom91/briefkasten](https://github.com/ndom91/briefkasten) - 📮 Self hosted bookmarking app
 - [mitchray/ample](https://github.com/mitchray/ample) - A simple web browser client for Ampache
 
 ## TypeScript 
