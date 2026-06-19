@@ -1218,6 +1218,8 @@
 
 ## others 
 
+- [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local downloads in FLAC, ALAC, AAC, or MP3.
+- [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr) - A Subsonic API proxy server that focuses on integrating SquidWTF as an external music source for Navidrome.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
 - [kaarme01/kaarme-bet-scraper](https://github.com/kaarme01/kaarme-bet-scraper) - A prototype for a sportsbook scraping framework
