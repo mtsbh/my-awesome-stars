@@ -80,6 +80,7 @@
 
 ## C# # 
 
+- [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr) - A Subsonic API proxy server that focuses on integrating SquidWTF as an external music source for Navidrome.
 - [mrsilver76/listporter](https://github.com/mrsilver76/listporter) - A cross-platform command-line tool (Windows, Linux, macOS) for importing standard or extended .m3u audio playlists into Plex Media Server. Supports fuzzy path matching, path rewriting, and optional mi
 - [gregchak/plex-playlist-import](https://github.com/gregchak/plex-playlist-import) - Windows application for importing playlists into PLEX
 - [yazdipour/unlimited-ticktick-windows](https://github.com/yazdipour/unlimited-ticktick-windows) - Reverse engineered TickTick Windows
@@ -360,6 +361,7 @@
 
 ## Python 
 
+- [anandprtp/Antra](https://github.com/anandprtp/Antra) - A desktop music library builder that turns Spotify, Apple Music, Amazon Music, Tidal, Qobuz, and Deezer links into fully tagged local downloads in FLAC, ALAC, AAC, or MP3.
 - [flukelaster/ai-trading-agent](https://github.com/flukelaster/ai-trading-agent) - Multi-symbol AI trading agent — Claude AI + FastAPI + Next.js + MetaTrader 5
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
