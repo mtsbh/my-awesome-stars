@@ -280,6 +280,7 @@
 
 ## Kotlin 
 
+- [j-roskopf/Phoebe](https://github.com/j-roskopf/Phoebe) - Phoebe is a Compose Multiplatform Plex / Jellyfin / Emby / Navidrome music player for Android, iOS, desktop (Mac / Windows / Linux), and the browser (WasmJs).
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [cyunrei/Video-Live-Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) - A video live wallpaper application with minimal memory usage and a compact package size, designed only for the Android Original System.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
@@ -414,7 +415,7 @@
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [harleylang/hydroxide-docker](https://github.com/harleylang/hydroxide-docker) - Docker configuration examples for the hydroxide package
 - [vinayak-7-0-3/Tidal-DL-Telegram](https://github.com/vinayak-7-0-3/Tidal-DL-Telegram) - Telegram bot to download songs from Tidal
 - [noes14155/Telegrambot-with-GPT](https://github.com/noes14155/Telegrambot-with-GPT) - telegram bot with gpt
