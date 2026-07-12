@@ -210,7 +210,6 @@
 ## Java 
 
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-- [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [tonikelope/megabasterd](https://github.com/tonikelope/megabasterd) - Yet another unofficial (and ugly) cross-platform MEGA downloader/uploader/streaming suite.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [NextAlone/Nagram](https://github.com/NextAlone/Nagram) - The third-party Telegram android app.
@@ -284,6 +283,7 @@
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [cyunrei/Video-Live-Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) - A video live wallpaper application with minimal memory usage and a compact package size, designed only for the Android Original System.
 - [permissionlesstech/bitchat-android](https://github.com/permissionlesstech/bitchat-android) - bluetooth mesh chat, IRC vibes
+- [LSPosed/CorePatch](https://github.com/LSPosed/CorePatch) - Disable signature verification For Android
 - [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 - [Shabinder/SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
