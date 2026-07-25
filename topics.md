@@ -123,6 +123,7 @@
 - [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
+- [numpy](#numpy)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
@@ -640,6 +641,7 @@
 
 ## electron 
 
+- [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [playwora/wora](https://github.com/playwora/wora) - 🎧 A beautiful player for audiophiles.
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
@@ -740,7 +742,7 @@
 ## generative-ai 
 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 
@@ -887,8 +889,9 @@
 
 ## javascript 
 
+- [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) - AI tools platform with 800+ curated tools, built-in workspace tools for developers and researchers.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [regorxxx/Infinity-Tools-SMP](https://github.com/regorxxx/Infinity-Tools-SMP) - A collection of Spider Monkey tools for foobar2000: playback controls, removing duplicates, wrapped, statistics report, advanced playlist manipulation, dynamic queries,  "spotify-like" playlist creati
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
@@ -1091,6 +1094,7 @@
 
 ## music 
 
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - A real-time audio effect processor designed for audio enthusiasts to enhance their music listening experience.
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
@@ -1184,6 +1188,10 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
+## numpy 
+
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
+
 ## obsidian 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1203,7 +1211,7 @@
 ## open-source 
 
 - [Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) - AI tools platform with 800+ curated tools, built-in workspace tools for developers and researchers.
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
@@ -1249,6 +1257,7 @@
 
 ## others 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ShmuelRonen/ComfyUI-Audio_Quality_Enhancer](https://github.com/ShmuelRonen/ComfyUI-Audio_Quality_Enhancer) - An extension that's adds advanced audio processing capabilities to ComfyUI with professional-grade audio effects and AI-powered audio enhancement.
 - [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
@@ -1482,6 +1491,7 @@
 
 ## python 
 
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [flukelaster/ai-trading-agent](https://github.com/flukelaster/ai-trading-agent) - Multi-symbol AI trading agent — Claude AI + FastAPI + Next.js + MetaTrader 5
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
@@ -1528,6 +1538,7 @@
 
 ## python3 
 
+- [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (Deezer, Discogs, iTunes, Musixmatch, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
 - [Lysagxra/GoFileDownloader](https://github.com/Lysagxra/GoFileDownloader) - Efficient downloader for GoFile
 - [yash1th/unsplash-album-downloader](https://github.com/yash1th/unsplash-album-downloader) - Download entire album of photos from Unsplash
@@ -1575,6 +1586,7 @@
 
 ## react 
 
+- [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [Hyraze/collective-ai-tools](https://github.com/Hyraze/collective-ai-tools) - AI tools platform with 800+ curated tools, built-in workspace tools for developers and researchers.
 - [nini22P/omp](https://github.com/nini22P/omp) - OneDrive Media Player on the web | 网页端 OneDrive 媒体播放器
 - [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader) - Modern desktop RSS reader built with Electron, React, and Fluent UI
