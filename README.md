@@ -311,7 +311,6 @@
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
-- [joshdev8/AutoPlexx](https://github.com/joshdev8/AutoPlexx) - AutoPlexx offers a seamless, fully-automated Plex Media Server setup using Docker, designed to simplify your media streaming experience. With a single command, deploy an integrated stack of essential 
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
 - [WindowTop/WindowTop-App](https://github.com/WindowTop/WindowTop-App) - Set window on top, make it dark, transparent and more
 - [ai-collection/ai-collection](https://github.com/ai-collection/ai-collection) - The Generative AI Landscape - A Collection of Awesome Generative AI Applications
@@ -554,6 +553,7 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
+- [joshdev8/AutoPlexx](https://github.com/joshdev8/AutoPlexx) - AutoPlexx offers a seamless, fully-automated Plex Media Server setup using Docker, designed to simplify your media streaming experience. With a single command, deploy an integrated stack of essential 
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
