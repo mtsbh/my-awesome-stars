@@ -119,7 +119,6 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
-- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [numpy](#numpy)
@@ -1158,10 +1157,6 @@
 ## nlp 
 
 - [madkarmaa/automatic-chatgpt-dan](https://github.com/madkarmaa/automatic-chatgpt-dan) - Browser userscript to automatically send DAN messages to ChatGPT
-
-## no-code 
-
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 
 ## node 
 
