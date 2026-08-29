@@ -88,7 +88,6 @@
 - [icon-font](#icon-font)
 - [ios](#ios)
 - [iot](#iot)
-- [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
 - [jetpack-compose](#jetpack-compose)
@@ -876,10 +875,6 @@
 ## iot 
 
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-## ipfs 
-
-- [icidasset/diffuse](https://github.com/icidasset/diffuse) - A music player that connects to your cloud/distributed storage.
 
 ## java 
 
