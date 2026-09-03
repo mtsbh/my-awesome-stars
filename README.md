@@ -81,6 +81,7 @@
 
 ## C# # 
 
+- [xammen/BetterTrumpet](https://github.com/xammen/BetterTrumpet) - the best eartrumpet fork. nothing else.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr) - A Subsonic API proxy server that focuses on integrating SquidWTF as an external music source for Navidrome.
 - [mrsilver76/listporter](https://github.com/mrsilver76/listporter) - A cross-platform command-line tool (Windows, Linux, macOS) for importing standard or extended .m3u audio playlists into Plex Media Server. Supports fuzzy path matching, path rewriting, and optional mi
@@ -222,7 +223,7 @@
 - [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - A real-time audio effect processor designed for audio enthusiasts to enhance their music listening experience.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT license
 - [regorxxx/Infinity-Tools-SMP](https://github.com/regorxxx/Infinity-Tools-SMP) - A collection of Spider Monkey tools for foobar2000: playback controls, removing duplicates, wrapped, statistics report, advanced playlist manipulation, dynamic queries,  "spotify-like" playlist creati
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
@@ -281,6 +282,7 @@
 
 ## Kotlin 
 
+- [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
 - [j-roskopf/Phoebe](https://github.com/j-roskopf/Phoebe) - Phoebe is a Compose Multiplatform Plex / Jellyfin / Emby / Navidrome music player for Android, iOS, desktop (Mac / Windows / Linux), and the browser (WasmJs).
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
 - [cyunrei/Video-Live-Wallpaper](https://github.com/cyunrei/Video-Live-Wallpaper) - A video live wallpaper application with minimal memory usage and a compact package size, designed only for the Android Original System.
@@ -301,7 +303,6 @@
 
 ## Others 
 
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [auctors/free-lunch](https://github.com/auctors/free-lunch) - A curated list of free Windows software, online services and resources. Feel free to contribute!
@@ -310,7 +311,6 @@
 - [MasterBrian99/Free-Courses-For-Everyone](https://github.com/MasterBrian99/Free-Courses-For-Everyone) - Download or get free coupons from famous course websites.
 - [pAulseperformance/awesome-pinescript](https://github.com/pAulseperformance/awesome-pinescript) - A Comprehensive Collection of Everything Related to Tradingview Pine Script.
 - [ramensoftware/windows-11-taskbar-styling-guide](https://github.com/ramensoftware/windows-11-taskbar-styling-guide) - A collection of commonly requested taskbar styling customizations for Windows 11
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [underlines/awesome-ml](https://github.com/underlines/awesome-ml) - Curated list of useful LLM / Analytics / Datascience resources
 - [MoonWalker440/TeleBotList](https://github.com/MoonWalker440/TeleBotList) - A cool collection of awesome Telegram bots source code hosted on github
@@ -523,12 +523,14 @@
 
 ## TypeScript 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [MultiboxLabs/flow-browser](https://github.com/MultiboxLabs/flow-browser) - A modern, privacy-focused browser with a minimalistic design.
 - [webprofusion/OpenAudio](https://github.com/webprofusion/OpenAudio) - A list of open source audio software projects (Apps, Plugins and Libraries). Please contribute more links or open source your own plugins.
 - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases
 - [hanishrao/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) - Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat) - ScriptCat, a browser extension that can execute userscript; 脚本猫，一个可以执行用户脚本的浏览器扩展
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
@@ -551,6 +553,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source communication infrastructure for agents and products
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
