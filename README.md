@@ -81,7 +81,7 @@
 
 ## C# # 
 
-- [xammen/BetterTrumpet](https://github.com/xammen/BetterTrumpet) - the best eartrumpet fork. nothing else.
+- [xammen/BetterTrumpet](https://github.com/xammen/BetterTrumpet) - eartrumpet fork. the best volume mixer on windows. nothing else.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [bransoned/octo-fiestarr](https://github.com/bransoned/octo-fiestarr) - A Subsonic API proxy server that focuses on integrating SquidWTF as an external music source for Navidrome.
 - [mrsilver76/listporter](https://github.com/mrsilver76/listporter) - A cross-platform command-line tool (Windows, Linux, macOS) for importing standard or extended .m3u audio playlists into Plex Media Server. Supports fuzzy path matching, path rewriting, and optional mi
@@ -220,6 +220,7 @@
 
 ## JavaScript 
 
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - A real-time audio effect processor designed for audio enthusiasts to enhance their music listening experience.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
 - [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) - AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation
