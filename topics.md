@@ -1259,6 +1259,9 @@
 
 ## others 
 
+- [ODSkyler/tidal-proxy](https://github.com/ODSkyler/tidal-proxy) - Audio Proxy for TIDAL-DL
+- [Metroid2023/DaddyLiveHD](https://github.com/Metroid2023/DaddyLiveHD) - dlive playlist is is working with EasyProxy.
+- [realbestia1/EasyProxy](https://github.com/realbestia1/EasyProxy) - 
 - [xammen/BetterTrumpet](https://github.com/xammen/BetterTrumpet) - eartrumpet fork. the best volume mixer on windows. nothing else.
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [ShmuelRonen/ComfyUI-Audio_Quality_Enhancer](https://github.com/ShmuelRonen/ComfyUI-Audio_Quality_Enhancer) - An extension that's adds advanced audio processing capabilities to ComfyUI with professional-grade audio effects and AI-powered audio enhancement.
