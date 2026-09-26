@@ -1274,6 +1274,7 @@
 
 ## others 
 
+- [bertigert/DeezMod](https://github.com/bertigert/DeezMod) - Inject custom scripts/plugins into the Deezer Desktop Application
 - [ODSkyler/tidal-proxy](https://github.com/ODSkyler/tidal-proxy) - Audio Proxy for TIDAL-DL
 - [Metroid2023/DaddyLiveHD](https://github.com/Metroid2023/DaddyLiveHD) - dlive playlist is is working with EasyProxy.
 - [realbestia1/EasyProxy](https://github.com/realbestia1/EasyProxy) - 
