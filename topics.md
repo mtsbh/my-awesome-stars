@@ -220,6 +220,7 @@
 
 ## ai 
 
+- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 - [hanishrao/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) - Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
@@ -521,6 +522,7 @@
 
 ## cli 
 
+- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [Py-Contributors/awesomeScripts](https://github.com/Py-Contributors/awesomeScripts) - A Collection of Awesome Scripts in Python to Ease Daily-Life. Create an issue If you have some great ideas for the new script. Leave a :star:
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
@@ -553,6 +555,7 @@
 
 ## csharp 
 
+- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 - [theimpactfulcompany/Rise-Media-Player](https://github.com/theimpactfulcompany/Rise-Media-Player) - One media player for everything you own or stream; whether it's music or videos, online or offline Rise Media Player does it all. And it's beautiful and native with the latest version of WinUI.
 - [IridiumIO/CompactGUI](https://github.com/IridiumIO/CompactGUI) - Reduce the space taken up by games and programs on disk by using native Windows APIs
 - [zemoto/WhatAmIHearing](https://github.com/zemoto/WhatAmIHearing) - An open-source Shazam client for identifying music on your PC. For when your phone's microphone just doesn't cut it.
@@ -813,6 +816,7 @@
 
 ## gui 
 
+- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 - [nperovic/ColorButton.ahk](https://github.com/nperovic/ColorButton.ahk) - Customise a button's background, text and border color. 為內建 Gui.Button 類別擴充一個變更按鈕背景、文字及邊框顏色的方法。
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - A modern and customizable python UI-library based on Tkinter
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1112,6 +1116,7 @@
 
 ## music 
 
+- [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [Frieve-A/effetune](https://github.com/Frieve-A/effetune) - Free real-time audio effects for music listening: EQ, tube amp, AM radio, visualizer, and 100+ more. Web/PWA, desktop, Chrome/Edge extension, VST3.
 - [acszo/Redomi](https://github.com/acszo/Redomi) - 🎶 Song.link client to open songs from different platforms to your favourite one
