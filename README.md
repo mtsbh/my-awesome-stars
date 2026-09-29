@@ -187,7 +187,7 @@
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
+- [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [tailscale/caddy-tailscale](https://github.com/tailscale/caddy-tailscale) - A highly experimental exploration of integrating Tailscale and Caddy.
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [emersion/hydroxide](https://github.com/emersion/hydroxide) - A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
@@ -243,7 +243,6 @@
 - [lelinhtinh/Userscript](https://github.com/lelinhtinh/Userscript) - Userscripts collection
 - [sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI](https://github.com/sudo-eugene/Connect-Telegram-Bot-to-Google-Sheets-ChatGPT-OpenAI) - Connect Telegram Bot to Google Sheets via Google Apps Scripts
 - [seongbin/Vibe2](https://github.com/seongbin/Vibe2) - Vibe, another foobar2000 theme
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [va4ok/userscript-builder](https://github.com/va4ok/userscript-builder) - Tool for building userscript for teampermonkey. Uses ES6 classes.
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [idoenk/maknyos-autoin](https://github.com/idoenk/maknyos-autoin) - 
@@ -367,6 +366,8 @@
 
 ## Python 
 
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
+- [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [realbestia1/EasyProxy](https://github.com/realbestia1/EasyProxy) - 
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [ShmuelRonen/ComfyUI-Audio_Quality_Enhancer](https://github.com/ShmuelRonen/ComfyUI-Audio_Quality_Enhancer) - An extension that's adds advanced audio processing capabilities to ComfyUI with professional-grade audio effects and AI-powered audio enhancement.
@@ -565,6 +566,7 @@
 - [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality & FLAC Info, LastFM, Downloads & More!
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [joshdev8/AutoPlexx](https://github.com/joshdev8/AutoPlexx) - AutoPlexx offers a seamless, fully-automated Plex Media Server setup using Docker, designed to simplify your media streaming experience. With a single command, deploy an integrated stack of essential 
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [goniszewski/grimoire](https://github.com/goniszewski/grimoire) - Bookmark manager for the wizards 🧙
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
