@@ -849,7 +849,6 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps.
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
-- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [piroor/treestyletab](https://github.com/piroor/treestyletab) - Tree Style Tab, Show tabs like a tree.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
@@ -1387,6 +1386,7 @@
 - [viggy96/container_config](https://github.com/viggy96/container_config) - 
 - [ClarkAllen1556/obsidian_clip](https://github.com/ClarkAllen1556/obsidian_clip) - 
 - [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) - This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.
+- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [trummerschlunk/master_me](https://github.com/trummerschlunk/master_me) - automatic mastering plugin for live streaming, podcasts and internet radio.
 - [iconify/icon-sets](https://github.com/iconify/icon-sets) - 200+ open source icon sets. Icons are validated, cleaned up, optimised, ready to render as SVG. Updated automatically several times a week.
 - [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) - A curated list of resources related to IPTV
