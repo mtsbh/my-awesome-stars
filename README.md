@@ -381,7 +381,7 @@
 - [TIGER-AI-Lab/OpenResearcher](https://github.com/TIGER-AI-Lab/OpenResearcher) - OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis
 - [Gyarbij/Plexist](https://github.com/Gyarbij/Plexist) - Plex+Playlist=Plexist, An application for recreating Apple Music, Deezer, Spotify, Tidal and QoBuz playlist with Plex (because Plex music playlist are a croc of tihs)
 - [Lysagxra/GoFileDownloader](https://github.com/Lysagxra/GoFileDownloader) - Efficient downloader for GoFile
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [yash1th/unsplash-album-downloader](https://github.com/yash1th/unsplash-album-downloader) - Download entire album of photos from Unsplash
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
