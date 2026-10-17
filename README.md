@@ -483,7 +483,7 @@
 - [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz) - chrome extension to firefox extension converter
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
+- [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
