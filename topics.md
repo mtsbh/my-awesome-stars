@@ -1316,7 +1316,7 @@
 - [MrOtherGuy/fx-autoconfig](https://github.com/MrOtherGuy/fx-autoconfig) - Load custom javascript in browser context
 - [JemPH/QobuzDL-Browser](https://github.com/JemPH/QobuzDL-Browser) - Qobuz Downloader Tool for Browser Extension
 - [indigofairyx/Extended_Capslock_Context_Menu](https://github.com/indigofairyx/Extended_Capslock_Context_Menu) - An AutoHotkey menu for working-playing with text
-- [euzu/tuliprox](https://github.com/euzu/tuliprox) - Flexible IPTV playlist processor & proxy in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
+- [euzu/tuliprox](https://github.com/euzu/tuliprox) - tuliprox:  Self-Hosted Media Gateway & Playlist Processor in Rust 🦀 - supports M3U, Xtream Codes, HDHomeRun, Plex, Emby & Jellyfin. Filtering, merging, scheduling & web delivery.
 - [sebdelsol/sfvip-all](https://github.com/sebdelsol/sfvip-all) - Sfvip All wraps Sfvip Player with a local proxy that inserts an All category so you can easily search your entire catalog. It updates Mpv and Sfvip Player so you can enjoy their latest features. It su
 - [dream7180/foobox-en](https://github.com/dream7180/foobox-en) - DUI theme for foobar2000
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
