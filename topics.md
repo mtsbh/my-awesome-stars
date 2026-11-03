@@ -15,6 +15,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -230,7 +231,7 @@
 - [IAHispano/Applio](https://github.com/IAHispano/Applio) - A simple, high-quality voice conversion tool focused on ease of use and performance.
 - [Angel2mp3/AudioAuditor](https://github.com/Angel2mp3/AudioAuditor) - A powerful, open-source toolkit for audio analysis and playback. Verify lossless quality, detect AI-generated tracks, and explore your library with a built-in hi-res player and advanced EQ.
 - [hanishrao/collective-ai-tools](https://github.com/hanishrao/collective-ai-tools) - Search across curated tools, MCP servers, prompts, skills, and trending repos, one query, every corner of the ecosystem.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -318,6 +319,10 @@
 - [LSPosed/MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal) - Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)
 - [Ivy-Apps/ivy-wallet](https://github.com/Ivy-Apps/ivy-wallet) - Ivy Wallet is an open-source money manager app for Android, no longer maintained. You can fork the code or download the final version from Google Play.
 - [jellyfin/jellyfin-androidtv](https://github.com/jellyfin/jellyfin-androidtv) - Android TV Client for Jellyfin
+
+## android-app 
+
+- [plainhub/plain-app](https://github.com/plainhub/plain-app) - 🔥 PlainApp is an open-source app that lets you securely manage your phone from a web browser. Access files, media, contacts, SMS, calls, and more through a simple, easy-to-use interface on your deskto
 
 ## angular 
 
@@ -798,7 +803,6 @@
 ## go 
 
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
-- [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [supersonic-app/supersonic](https://github.com/supersonic-app/supersonic) - A lightweight and full-featured cross-platform desktop client for self-hosted music servers
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
@@ -809,7 +813,6 @@
 - [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading) - A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化交易 | 量化投资
 - [tgdrive/teldrive](https://github.com/tgdrive/teldrive) - Teldrive
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
@@ -1018,7 +1021,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -1046,7 +1049,7 @@
 
 ## mac 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1692,7 +1695,7 @@
 
 ## rust 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe) - Transcribe on your own!
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
 - [OtsoBear/chrome2moz](https://github.com/OtsoBear/chrome2moz) - chrome extension to firefox extension converter
@@ -1702,6 +1705,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [qarmin/szyszka](https://github.com/qarmin/szyszka) - Szyszka is fast and powerful file renamer
+- [sh4den/Montscan](https://github.com/sh4den/Montscan) - 🖨️ Automated scanner document processor with AI-powered naming and WebDav integration. Receives scans via FTP, extracts text using Vision AI, generates intelligent filenames with Ollama AI, and upload
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
@@ -1726,7 +1730,7 @@
 
 ## self-hosted 
 
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [sachinsenal0x64/hifi](https://github.com/sachinsenal0x64/hifi) - Tidal music integration for Subsonic/Jellyfin/Plexamp.
 - [monochrome-music/monochrome](https://github.com/monochrome-music/monochrome) - Stream and download millions of Hi-Res FLACs, unreleased songs and music videos, all for free on Monochrome.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1969,7 +1973,7 @@
 ## windows 
 
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first AI meeting note taker. Download Free and open source granola, otter ai, fireflies alternative. Parakeet / Whisper live transcription, on-device speaker diarization, built on Rust. 100% l
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
 - [nerdyslacker/desktop-web-browsers](https://github.com/nerdyslacker/desktop-web-browsers) - Almost full list of all desktop web browsers
 - [BlackHatDevX/openspot-music-app](https://github.com/BlackHatDevX/openspot-music-app) - OpenSpot is a free, open-source music app that lets you stream and download high-quality tracks across all your devices. With a sleek, intuitive UI built for a seamless experience, it supports Android
 - [mrsilver76/listporter](https://github.com/mrsilver76/listporter) - A cross-platform command-line tool (Windows, Linux, macOS) for importing standard or extended .m3u audio playlists into Plex Media Server. Supports fuzzy path matching, path rewriting, and optional mi
