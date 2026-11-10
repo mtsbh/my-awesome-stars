@@ -1313,6 +1313,7 @@
 
 ## others 
 
+- [andradeatdev/auto-continue-shortlinks](https://github.com/andradeatdev/auto-continue-shortlinks) - Just a simple script to help automate shortlinks on supported hosts whenever possible.
 - [sohzm/cheating-daddy](https://github.com/sohzm/cheating-daddy) - a free and opensource app that lets you gain an unfair advantage
 - [bertigert/DeezMod](https://github.com/bertigert/DeezMod) - Inject custom scripts/plugins into the Deezer Desktop Application
 - [ODSkyler/tidal-proxy](https://github.com/ODSkyler/tidal-proxy) - Audio Proxy for TIDAL-DL
