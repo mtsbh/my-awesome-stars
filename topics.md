@@ -41,7 +41,6 @@
 - [cloud](#cloud)
 - [code-review](#code-review)
 - [command-line](#command-line)
-- [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [csharp](#csharp)
 - [css](#css)
@@ -205,6 +204,7 @@
 
 ## agent 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [libraryofcelsus/Aetherius_AI_Assistant](https://github.com/libraryofcelsus/Aetherius_AI_Assistant) - A completely private, locally-operated Ai Assistant/Chatbot/Sub-Agent Framework with realistic Long Term Memory and thought formation using Open Source LLMs. Qdrant is used for the Vector DB.
@@ -225,6 +225,7 @@
 
 ## agents 
 
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -288,7 +289,7 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in full, every version since May 2025. Also Anthropic Claude Code, OpenAI Codex, Google An
-- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - AI suite powered by state-of-the-art models and providing advanced AI/AGI functions. Includes AI personas, AGI functions, world-class Beam multi-model chats, text-to-image, voice, response streaming, 
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 
 ## algorithmic-trading 
 
@@ -523,6 +524,7 @@
 - [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts) - List of free GPTs that doesn't require plus subscription
 - [tw93/Pake](https://github.com/tw93/Pake) - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 - [billmei/every-chatgpt-gui](https://github.com/billmei/every-chatgpt-gui) - Every front-end GUI client for ChatGPT, Claude, and other LLMs
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
@@ -567,10 +569,6 @@
 - [mrsilver76/listporter](https://github.com/mrsilver76/listporter) - A cross-platform command-line tool (Windows, Linux, macOS) for importing standard or extended .m3u audio playlists into Plex Media Server. Supports fuzzy path matching, path rewriting, and optional mi
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [stax76/OpenWithPlusPlus](https://github.com/stax76/OpenWithPlusPlus) - Open with++ context menu shell extension
-
-## cpp 
-
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 
 ## cryptocurrency 
 
@@ -832,7 +830,6 @@
 
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and an applicat
 - [recloudstream/cloudstream](https://github.com/recloudstream/cloudstream) - Android app for streaming and downloading media.
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev) - Complete list of free stuff for developer
 
 ## google 
@@ -1051,6 +1048,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [enricoros/big-AGI](https://github.com/enricoros/big-AGI) - The AI workspace for experts. Switch across 800+ models mid-chat, tune 40+ parameters, Beam models side by side. BYO keys, self-hostable. Built on our native-protocol engine: reliable, hyper-configura
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for comm
@@ -1578,7 +1576,6 @@
 
 - [sergree/matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 - [flukelaster/ai-trading-agent](https://github.com/flukelaster/ai-trading-agent) - Multi-symbol AI trading agent — Claude AI + FastAPI + Next.js + MetaTrader 5
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [bbye98/minim](https://github.com/bbye98/minim) - A collection of music service (Deezer, Discogs, iTunes, Musixmatch, Qobuz, Spotify, TIDAL) APIs for media information retrieval and semi-automated music tagging.
@@ -1647,7 +1644,6 @@
 
 ## qt 
 
-- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 
 ## quant 
